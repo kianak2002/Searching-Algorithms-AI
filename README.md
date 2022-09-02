@@ -13,10 +13,15 @@ only by getting juxtapose to the butter and pushing it, the butter could be move
 ##Algorithms Used
 
 This project is done with three algorithms {
-1.** A* 
-2.** Bi-BFS
-3.** IDS
+1.*** A* 
+2.*** Bi-BFS
+3.*** IDS
 }
+
+**K
+** K
+*** Ki
+***Ki
 
 ## Report
 
