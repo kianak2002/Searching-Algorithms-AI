@@ -10,7 +10,7 @@ We wanted the robot to find the optimal path to take the butter to the plates by
 only by getting juxtapose to the butter and pushing it, the butter could be moved.
 
 
-##Algorithms Used
+## Algorithms Used
 
 This project is done with three algorithms {
 1.    A* 
